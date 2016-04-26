@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Myles Braithwaite]]></title>
         <description><![CDATA[Myles Braithwaite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:42:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 16:45:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toronto Skyline]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd4206cd-b98a-4d29-99ed-61d077b6bf44.jpg">]]></description>
+            <link>https://thegrid.ai/myles/toronto-skyline/index.html</link>
+            <guid isPermaLink="false">e024912d-ecd7-457f-b5de-b2e9ce76e373</guid>
+            <pubDate>Tue, 26 Apr 2016 16:44:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68c1ce55-18bb-4f1e-a469-12e3bf60e929.jpg">]]></description>
-            <link>undefined3898ab6f-199c-45b9-99f4-e93310afd1f9/index.html</link>
+            <link>https://thegrid.ai/myles/3898ab6f-199c-45b9-99f4-e93310afd1f9/index.html</link>
             <guid isPermaLink="false">3898ab6f-199c-45b9-99f4-e93310afd1f9</guid>
             <pubDate>Tue, 26 Apr 2016 16:42:16 GMT</pubDate>
         </item>
